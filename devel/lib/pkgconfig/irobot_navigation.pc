@@ -1,0 +1,8 @@
+prefix=/home/gnoliyil/catkin_ws/devel
+
+Name: irobot_navigation
+Description: Description of irobot_navigation
+Version: 2.3.3
+Cflags: 
+Libs: -L/home/gnoliyil/catkin_ws/devel/lib 
+Requires: 

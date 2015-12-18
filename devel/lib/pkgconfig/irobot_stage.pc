@@ -1,0 +1,8 @@
+prefix=/home/gnoliyil/catkin_ws/devel
+
+Name: irobot_stage
+Description: Description of irobot_stage
+Version: 2.2.2
+Cflags: 
+Libs: -L/home/gnoliyil/catkin_ws/devel/lib 
+Requires: 

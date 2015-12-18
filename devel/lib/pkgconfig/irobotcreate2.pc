@@ -1,0 +1,8 @@
+prefix=/home/gnoliyil/catkin_ws/devel
+
+Name: irobotcreate2
+Description: Description of irobotcreate2
+Version: 0.0.1
+Cflags: -I/home/gnoliyil/catkin_ws/devel/include
+Libs: -L/home/gnoliyil/catkin_ws/devel/lib 
+Requires: 

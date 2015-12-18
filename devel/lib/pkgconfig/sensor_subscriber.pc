@@ -1,0 +1,8 @@
+prefix=/home/gnoliyil/catkin_ws/devel
+
+Name: sensor_subscriber
+Description: Description of sensor_subscriber
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/gnoliyil/catkin_ws/devel/lib 
+Requires: 
